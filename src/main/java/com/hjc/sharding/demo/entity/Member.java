@@ -10,8 +10,8 @@ import lombok.Data;
 @TableName("member")
 public class Member {
 
-    @TableId(type = IdType.ID_WORKER_STR)
-    private String id;
+    @TableId(type = IdType.AUTO)
+    private Integer id;
 
     private String name;
 
