@@ -25,7 +25,7 @@
         <lombok.version>1.16.18</lombok.version>
         <fastjson.version>1.2.44</fastjson.version>
         <guava.version>24.0-jre</guava.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
 	<dependencies>
